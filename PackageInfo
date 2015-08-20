@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<pkg-info overwrite-permissions="true" relocatable="false" identifier="edu.whitby.syncbackup" postinstall-action="none" version="0.0.1" format-version="2" generator-version="InstallCmds-502 (14F27)" auth="root">
+    <payload numberOfFiles="5" installKBytes="2"/>
+    <bundle-version/>
+    <upgrade-bundle/>
+    <update-bundle/>
+    <atomic-update-bundle/>
+    <strict-identifier/>
+    <relocate/>
+</pkg-info>
